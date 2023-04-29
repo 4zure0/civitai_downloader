@@ -3,6 +3,8 @@ Downloads specified models from Civitai, along with metadata and images.
 
 For now it supports downloading one or more models from URLs manually inserted by the user.
 I'll add support for downloading favorited models and all models by uploader later.
+Next thing coming is command line arguments and a config file.
+
 I don't plan to add functionality to download the entire site, if you want to do that edit the code by yourself.
 
 
