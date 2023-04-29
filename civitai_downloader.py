@@ -256,7 +256,7 @@ while True:
         else:
             model_id = item
 
-        metadata = get_metadata(model_id)
+        metadata = get_metadata(model_id, civitai_token= civitai_token)
         if metadata is None:
             print_error()
             if type(metadata) == str: print(f"Operation failed with code {metadata} for {item}")
