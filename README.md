@@ -9,6 +9,7 @@ I don't plan to add functionality to download the entire site, if you want to do
 
 # How to use
 **NOT TESTED ON LINUX**
+
 This guide assumes you have basic knowledge on how to run python code and use cmd/powershell. If you don't, please search on youtube first.
 
 - Clone or download this repo.
