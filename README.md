@@ -7,7 +7,8 @@ Next thing coming is command line arguments and a config file.
 
 I don't plan to add functionality to download the entire site, if you want to do that edit the code by yourself.
 
-
+## Known issues:
+- Gifs might be downloaded as JPEGs or other formats
 
 # How to use
 **NOT TESTED ON LINUX**
